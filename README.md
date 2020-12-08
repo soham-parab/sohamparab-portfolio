@@ -1,0 +1,1 @@
+I have developed this website to showcase my Full Stack Development skills and myprojects.
