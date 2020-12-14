@@ -1,3 +1,32 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
-body {font-family: 'Lato', sans-serif;}
+:root {
+    --primary-color:#2563EB;
+    
+
+}
+
+body {font-family: 'Lato', sans-serif;
+    
+
+}
+hr{
+    margin:2rem 0rem;
+
+}
+
+.margin-md{
+    margin:2rem;
+
+}
+
+.container {
+    padding: 0rem 1rem;
+
+}
+
+.container-center {
+    max-width:600px;
+    margin: auto;
+
+}
