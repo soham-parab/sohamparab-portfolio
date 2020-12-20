@@ -1,54 +1,62 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Bitter&display=swap');
+
+
+
 
 :root {
-    --primary-color: #2569E6; 
-    
+    --primary-color: #2569E6;
+
 
 }
 
-body {font-family: 'Lato', sans-serif;
-    
-
-}
-hr{
-    margin:2rem 0rem;
-
+/* body {font-family: 'Lato', sans-serif; */
+body {
+    font-family: 'Bitter', serif;
+    margin: 0px
 }
 
-.margin-md{
-    margin:2rem;
+}
+
+/* hr {
+    margin: 2rem 0rem;
+
+} */
+
+.margin-md {
+    margin: 2rem;
 
 }
 
 .container {
-    padding: 1rem 1rem;
+    padding: 0rem 1rem;
 
 }
 
 .container-center {
-    max-width:600px;
+    max-width: 600px;
     margin: auto;
 
 }
 
 .link {
-    
+
     text-decoration: :none;
-    padding:1rem 1rem;
-    color:white;
+    padding: 1rem 1rem;
+    color: white;
 
 
 
 }
 
-.link-primary{
+.link-primary {
     background-color: var(--primary-color);
     border-radius: 1rem;
     color: white;
 
-    
-    
-    
+
+
+
 }
 
 .link-secondary {
@@ -68,7 +76,7 @@ hr{
 .list-item-inline {
     display: inline;
     padding: 0rem 0.5rem;
-    color:white;
+    color: white;
 }
 
 .navigation-container {
@@ -76,18 +84,18 @@ hr{
     color: white;
     padding: 1rem;
     border-bottom-left-radius: 1rem;
-    margin:auto;
-    
+
+
 }
 
 .navigation-container .nav-brand {
     font-weight: bold;
-    color:white
+    color: white
 }
 
 .navigation-container .nav-pills {
     text-align: right;
-    color:white
+    color: white
 }
 
 .navigation-container .link {
@@ -100,15 +108,16 @@ hr{
 
 /** Header **/
 
-.hero{
-    padding:3rem;
+.hero {
+    padding: 3rem;
 }
 
 .hero .hero-img {
-    max-width: 400px;
-    display:block;
-    margin:auto;
-     
+    max-width: 800px;
+    display: block;
+    margin: auto;
+    align-content: center;
+
 
 
 
@@ -154,8 +163,8 @@ hr{
 }
 
 .footer .footer-header {
-    font-weight: bold;
-    font-size: large;
+
+    font-size: larger;
 }
 
 .footer ul {
