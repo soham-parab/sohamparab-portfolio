@@ -116,14 +116,14 @@ hr {
 /** Header **/
 
 .hero {
-    padding: 4rem;
+    padding: 2rem;
     color:var(--grey);
 }
 
 .hero .hero-img {
-    max-width: 30%;
-    display: block;
-    margin: auto;
+    max-width: 35%;
+    display:block;
+    margin:auto;
     align-content: center;
 
 
@@ -133,7 +133,7 @@ hr {
 
 .hero .hero-heading {
     text-align: center;
-    padding-top: 1rem;
+    padding-top:1rem ;
     color: var(--dark-gray);
 }
 
