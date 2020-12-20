@@ -116,7 +116,7 @@ hr {
 /** Header **/
 
 .hero {
-    padding: 3rem;
+    padding: 4rem;
     color:var(--grey);
 }
 
@@ -182,4 +182,12 @@ hr {
 
 .project-list{
     padding:2rem;
+}
+
+.paragraph-dummy{
+    padding:2em 0rem;
+}
+
+.paragraph {
+    padding:1rem 0rem;
 }
