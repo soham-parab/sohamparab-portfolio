@@ -1,1 +1,1 @@
-I have developed this website to showcase my Full Stack Development skills and myprojects.
+I have developed this website to showcase my web development portfolio.
