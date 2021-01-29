@@ -6,10 +6,10 @@
 
 :root {
     --primary-color: #2569E6;
-    --grey:#374151;
-    --off:#EFF6FF; 
-    
-    
+    --grey: #374151;
+    --off: #EFF6FF;
+
+
 
 
 }
@@ -48,8 +48,8 @@ hr {
     text-decoration: :none;
     padding: 0.8rem 1.2rem;
     color: white;
-    margin:auto;
-    
+    margin: auto;
+
 
 
 }
@@ -58,8 +58,8 @@ hr {
     background-color: var(--primary-color);
     border-radius: 1.2rem;
     color: white;
-    margin:1rem 1rem 1rem 0rem;
-    
+    margin: 1rem 1rem 1rem 0rem;
+
 
 
 
@@ -117,13 +117,13 @@ hr {
 
 .hero {
     padding: 2rem;
-    color:var(--grey);
+    color: var(--grey);
 }
 
 .hero .hero-img {
     max-width: 35%;
-    display:block;
-    margin:auto;
+    display: block;
+    margin: auto;
     align-content: center;
 
 
@@ -133,7 +133,7 @@ hr {
 
 .hero .hero-heading {
     text-align: center;
-    padding-top:1rem ;
+    padding-top: 1rem;
     color: var(--dark-gray);
 }
 
@@ -145,7 +145,7 @@ hr {
 
 .section {
     padding: 2rem;
-    
+
 }
 
 .section h1 {
@@ -180,14 +180,14 @@ hr {
     padding-inline-start: 0px;
 }
 
-.project-list{
-    padding:2rem;
+.project-list {
+    padding: 2rem;
 }
 
-.paragraph-dummy{
-    padding:2em 0rem;
+.paragraph-dummy {
+    padding: 2em 0rem;
 }
 
 .paragraph {
-    padding:1rem 0rem;
+    padding: 1rem 0rem;
 }
